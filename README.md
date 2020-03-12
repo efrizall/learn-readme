@@ -1,7 +1,11 @@
-# __Belajar Markdown Boy__
+# __Belajar Markdown__
 
 ## __Headers__
-Untuk membuat header, dibutuhkan hastag (#), semakin sedikit `#`, maka semakin besar  _tulisannya_.
+Untuk membuat header, dibutuhkan hastag (#)
+1. '#' --> h1
+2. '##' --> h2
+3. '#..' --> ....
+3. '######' --> h6.
 
 ## __List__
 ### `Unorder List` :
@@ -25,8 +29,3 @@ Untuk membuat header, dibutuhkan hastag (#), semakin sedikit `#`, maka semakin b
 ## __Link__
 1. [GitHub](http://github.com)
 2. [Me](https://github.com/efrizall)
-
-
-
-87iukoio
-asdasd
